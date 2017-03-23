@@ -4,3 +4,4 @@ Line 2
 Line Branch1
 Line Branch2 
 Line Branch3 with patterncommit
+Line Branch4
